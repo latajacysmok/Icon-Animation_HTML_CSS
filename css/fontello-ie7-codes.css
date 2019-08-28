@@ -1,0 +1,7 @@
+
+.icon-glass { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-bell-alt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0f3;&nbsp;'); }
+.icon-laptop { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf109;&nbsp;'); }
+.icon-flag-checkered { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf11e;&nbsp;'); }
+.icon-space-shuttle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf197;&nbsp;'); }
+.icon-blind { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf29d;&nbsp;'); }
